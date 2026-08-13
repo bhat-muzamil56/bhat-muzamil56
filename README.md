@@ -1,42 +1,30 @@
-````markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:001a14,70:003b2f,100:00ff9c&height=260&section=header&text=MUZAMIL%20ARSHID&fontSize=48&fontColor=00FF9C&animation=fadeIn&fontAlignY=38&desc=CYBERSECURITY%20%7C%20AI%20%7C%20LINUX%20%7C%20NETWORKING&descAlignY=60&descSize=18&descColor=67E8F9"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:020617,45:001a14,65:003b2f,82:064e3b,100:00ff9c&height=320&section=header&text=MUZAMIL%20ARSHID&fontSize=52&fontColor=00FF9C&animation=fadeIn&fontAlignY=38&desc=CYBERSECURITY%20%7C%20AI%20%7C%20LINUX%20%7C%20NETWORKING&descAlignY=60&descSize=18&descColor=67E8F9"/>
 
 # 🛡️ MUZAMIL ARSHID
 
-### `Cybersecurity Enthusiast` • `CSE Student` • `AI/ML Learner` • `Software Developer`
-
-<p>
-<img src="https://img.shields.io/badge/CYBERSECURITY-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF00">
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-412991?style=for-the-badge&logo=openai&logoColor=white">
-<img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/NETWORKING-0078D4?style=for-the-badge&logo=cisco&logoColor=white">
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=00FF9C">
-</p>
+### `Cybersecurity Enthusiast` • `Final-Year CSE Student` • `AI/ML Learner` • `Software Developer`
 
 <br>
 
+<img src="https://img.shields.io/badge/🔐_CYBERSECURITY-020617?style=for-the-badge&labelColor=020617&color=00FF9C">
+<img src="https://img.shields.io/badge/🤖_AI%2FML-020617?style=for-the-badge&labelColor=020617&color=7C3AED">
+<img src="https://img.shields.io/badge/🐧_LINUX-020617?style=for-the-badge&labelColor=020617&color=FCC624">
+<img src="https://img.shields.io/badge/🌐_NETWORKING-020617?style=for-the-badge&labelColor=020617&color=06B6D4">
+
+<br><br>
+
 <a href="https://github.com/bhat-muzamil56">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=00FF9C">
 </a>
 
 <a href="https://www.linkedin.com/in/muzamil-arshid-23861a328">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://muzamilai.replit.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-00C853?style=for-the-badge&logo=googlechrome&logoColor=white">
+<img src="https://img.shields.io/badge/PORTFOLIO-VISIT-00C853?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
 <br><br>
@@ -47,18 +35,190 @@
 
 ---
 
-# 🖥️ TERMINAL
+<div align="center">
+
+# 🛡️ CYBERSECURITY LAB
+
+```text
+╔══════════════════════════════════════════════════════════╗
+║                  MUZAMIL // CYBER LAB                    ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║  SYSTEM        ████████████████████  ONLINE             ║
+║  SECURITY      ████████████████████  ACTIVE             ║
+║  NETWORK       ██████████████████░░  LEARNING           ║
+║  AI RESEARCH   ███████████████░░░░░  EXPLORING          ║
+║  DEVELOPMENT   ████████████████████  ACTIVE             ║
+║                                                          ║
+║  MODE : LEARN → BUILD → TEST → SECURE → IMPROVE         ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+# 👋 ABOUT ME
+
+I am a **final-year Computer Science & Engineering student** with a growing focus on **Cybersecurity, Artificial Intelligence, Machine Learning, Linux, Networking and Software Development**.
+
+I enjoy understanding how modern systems work, how they can be secured, and how intelligent software can solve practical problems.
+
+My technical direction combines:
+
+```text
+🔐 CYBERSECURITY
+       +
+🌐 NETWORKING
+       +
+🐧 LINUX
+       +
+🤖 ARTIFICIAL INTELLIGENCE
+       +
+💻 SOFTWARE ENGINEERING
+       =
+🛡️ SECURE & INTELLIGENT SYSTEMS
+```
+
+I learn by turning knowledge into practical projects:
+
+`LEARN → BUILD → TEST → SECURE → IMPROVE`
+
+---
+
+# 🚀 FEATURED PROJECTS
+
+> Projects are placed before the tools because what I build matters more than simply listing technologies.
+
+---
+
+## 🤖 01 — EduAssistant
+
+<div align="center">
+
+### `AI-POWERED LEARNING COMPANION`
+
+</div>
+
+**EduAssistant** is an AI-powered educational project designed as a learning companion using modern AI capabilities.
+
+The project explores the integration of **GPT + Gemini** into a web-based learning experience.
+
+### 🎯 Purpose
+
+Build an interactive AI learning companion that helps learners explore concepts, ask questions and interact with intelligent assistance.
+
+### ✨ Key Areas
+
+- 🤖 AI-powered learning
+- 🧠 Intelligent assistance
+- 💬 AI interaction
+- 📚 Educational support
+- ⚡ Modern AI integration
+- 🌐 Web-based experience
+
+### 🧰 Technology Direction
+
+`AI` `GPT` `Gemini` `Web Development`
+
+### 🚀 Live Project
+
+<div align="center">
+
+<a href="https://muzamilai.replit.app">
+
+<img src="https://img.shields.io/badge/🚀_OPEN_EDUASSISTANT-00FF9C?style=for-the-badge&labelColor=020617">
+
+</a>
+
+</div>
+
+---
+
+## 🔐 02 — SecureVault
+
+<div align="center">
+
+### `PASSWORD MANAGER WEB APPLICATION`
+
+</div>
+
+**SecureVault** is a web-based password manager project built to explore frontend development, authentication workflows and browser-based data management.
+
+### 🎯 Purpose
+
+Build a password-management interface while learning how authentication, forms, browser storage and JavaScript application logic work together.
+
+### ✨ Features
+
+- 🔑 User registration
+- 🔐 Login functionality
+- 🗄️ Password storage
+- 🔎 Password search
+- 👁️ Show / hide password
+- 📋 Password management
+- 🖥️ Dashboard interface
+- 💾 Browser LocalStorage
+
+### 🧰 Technology
+
+`HTML` `CSS` `JavaScript` `LocalStorage`
+
+### 🧠 What I Learned
+
+- DOM manipulation
+- JavaScript event handling
+- Authentication flow concepts
+- Browser storage
+- Form handling
+- Frontend application structure
+- UI development
+
+> **Security note:** This is a learning project. Production password managers require secure backend architecture, strong encryption/key management and additional security controls.
+
+---
+
+## 🧪 03 — Future Projects
+
+My project portfolio will continue growing through practical cybersecurity, AI and software-development projects.
+
+Each project will be documented using:
+
+```text
+IDEA
+ ↓
+RESEARCH
+ ↓
+DESIGN
+ ↓
+BUILD
+ ↓
+TEST
+ ↓
+SECURE
+ ↓
+DOCUMENT
+ ↓
+IMPROVE
+```
+
+---
+
+# 🖥️ TERMINAL // WHOAMI
+
+> Moved lower in the profile so the projects and professional information appear first.
 
 ```text
 ┌──(muzamil㉿cyberlab)-[~/profile]
 └─$ whoami
 
+Final-Year Computer Science & Engineering Student
 Cybersecurity Enthusiast
-Computer Science & Engineering Student
 AI / ML Learner
 Software Developer
 
-┌──(muzamil㉿cyberlab)-[~/skills]
+┌──(muzamil㉿cyberlab)-[~/interests]
 └─$ cat interests.txt
 
 [+] Cybersecurity
@@ -69,6 +229,7 @@ Software Developer
 [+] Machine Learning
 [+] Python
 [+] Java
+[+] C / C++
 [+] Web Development
 [+] Software Engineering
 
@@ -77,352 +238,257 @@ Software Developer
 
 Learning...
 Building...
-Experimenting...
+Testing...
+Securing...
 Improving...
 
 STATUS: ACTIVE
-````
+```
 
 ---
 
-# 👋 ABOUT ME
+# 🧰 TECH STACK & TOOLS
 
-I am a **Computer Science & Engineering student** with a growing focus on **Cybersecurity, Artificial Intelligence, Machine Learning and Software Development**.
+## 💻 PROGRAMMING LANGUAGES
 
-I am interested in understanding how modern systems work, how they can be secured, and how intelligent software can be built to solve practical problems.
+<div align="center">
 
-My current learning journey combines:
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript"/>
 
-* 🔐 Cybersecurity & Ethical Hacking
-* 🌐 Networking & System Security
-* 🐧 Linux
-* 🤖 Artificial Intelligence
-* 🧠 Machine Learning
-* 🐍 Python
-* ☕ Java
-* 💻 C/C++
-* 🌐 Web Development
-* 🏗️ Software Engineering
-* 🧩 Data Structures & Algorithms
-* 🔧 Practical project building
+</div>
 
-My long-term direction is toward **Cybersecurity, Security Engineering, AI/ML, Software Engineering and Secure AI Systems**.
+| Symbol | Technology |
+|---|---|
+| 🐍 | Python |
+| ☕ | Java |
+| 🔵 | C |
+| ⚡ | C++ |
+| 🟨 | JavaScript |
 
 ---
 
-# 🎯 PROFESSIONAL SUMMARY
+## 🌐 WEB DEVELOPMENT
 
-I am building a strong technical foundation through programming, cybersecurity fundamentals, networking, Linux, AI/ML and practical software development.
+<div align="center">
 
-I learn primarily by combining theory with hands-on experimentation and projects. My interests include secure software, ethical hacking concepts, web security, networking, automation and AI-powered applications.
+<img src="https://skillicons.dev/icons?i=html,css,javascript"/>
 
-Rather than claiming expertise before earning it, I am focused on continuously developing my skills through:
+</div>
 
-`LEARN → BUILD → TEST → SECURE → IMPROVE`
-
-My goal is to eventually work on systems where **security, software engineering and artificial intelligence intersect**.
-
----
-
-# 🟢 CURRENT FOCUS
-
-| Area                    | Current Focus                                             |
-| ----------------------- | --------------------------------------------------------- |
-| 🔐 Cybersecurity        | Security fundamentals and secure system concepts          |
-| 🌐 Networking           | Networking fundamentals and network security              |
-| 🐧 Linux                | Linux fundamentals and command-line skills                |
-| 🐍 Python               | Programming, automation and security-oriented development |
-| 🛡️ Ethical Hacking     | Ethical hacking and security-testing concepts             |
-| 🌐 Web Security         | Authentication, vulnerabilities and secure development    |
-| 🤖 AI/ML                | Machine learning and AI application development           |
-| 💻 Software Engineering | Building practical and maintainable applications          |
-| 🧩 Problem Solving      | Data structures, algorithms and programming problems      |
-
-> These represent **learning focus areas**, not claimed skill percentages.
+| Symbol | Technology |
+|---|---|
+| 🌐 | HTML5 |
+| 🎨 | CSS3 |
+| ⚡ | JavaScript |
+| 🖥️ | Web Applications |
+| 🔐 | Secure Web Development |
 
 ---
 
-# 🧰 TECH STACK
+## 🔐 CYBERSECURITY
 
-## 💻 Languages
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000">
-</p>
-
-## 🌐 Web Development
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000">
-</p>
-
-## 🔐 Cybersecurity
-
-<p>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000">
-<img src="https://img.shields.io/badge/Networking-0078D4?style=flat-square&logo=cisco&logoColor=white">
-<img src="https://img.shields.io/badge/Ethical%20Hacking-111827?style=flat-square&logo=kalilinux&logoColor=00FF9C">
-<img src="https://img.shields.io/badge/Web%20Security-00FF9C?style=flat-square&logo=owasp&logoColor=000000">
-</p>
-
-## 🤖 AI / ML
-
-<p>
-<img src="https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white">
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/NLP-4F46E5?style=flat-square">
-<img src="https://img.shields.io/badge/Generative%20AI-10A37F?style=flat-square&logo=openai&logoColor=white">
-<img src="https://img.shields.io/badge/APIs-111827?style=flat-square">
-</p>
-
-## 🛠️ Tools
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000">
-</p>
+| Symbol | Area |
+|---|---|
+| 🔐 | Cybersecurity Fundamentals |
+| 🛡️ | Ethical Hacking Concepts |
+| 🌐 | Web Security |
+| 🔑 | Authentication & Authorization |
+| 🧪 | Security Testing |
+| 🔒 | Cryptography Fundamentals |
+| 🕵️ | Vulnerability Concepts |
+| 🛡️ | Secure Coding |
 
 ---
 
-# 🛡️ CYBERSECURITY ARSENAL
+## 🌐 NETWORKING
 
-My cybersecurity learning is focused on building strong fundamentals and practical understanding.
-
-### 🌐 Networking
-
-* Networking fundamentals
-* Network architecture concepts
-* Communication protocols
-* Network security concepts
-* Secure communication fundamentals
-
-### 🐧 Linux & Systems
-
-* Linux fundamentals
-* Command-line usage
-* File permissions
-* Processes and system concepts
-* System security fundamentals
-
-### 🌐 Web Security
-
-* Authentication concepts
-* Authorization concepts
-* Secure web development
-* Common vulnerability concepts
-* Security-conscious application design
-
-### 🔑 Authentication
-
-* Authentication fundamentals
-* Authorization
-* Access control
-* Password security concepts
-* Secure application practices
-
-### 🔒 Cryptography Fundamentals
-
-* Hashing concepts
-* Encryption concepts
-* Digital signatures
-* Secure communication
-* Cryptographic fundamentals
-
-### 🧪 Security Testing
-
-* Vulnerability concepts
-* Security testing fundamentals
-* Ethical hacking concepts
-* Security labs
-* Secure coding practices
-
-> I am developing cybersecurity skills through learning, labs, experimentation and projects. I do **not** claim professional penetration-testing experience.
+| Symbol | Area |
+|---|---|
+| 🌐 | Computer Networking |
+| 📡 | Network Communication |
+| 🔗 | Network Architecture |
+| 🛡️ | Network Security |
+| 🔒 | Secure Communication |
+| 📊 | Network Fundamentals |
 
 ---
 
-# 📜 CERTIFICATIONS
+## 🐧 LINUX & SYSTEMS
 
-No certifications have been provided yet.
+<div align="center">
 
-This section is intentionally ready for future verified credentials.
+<img src="https://skillicons.dev/icons?i=linux"/>
 
-| Certificate              | Issuer     | Date     | Credential ID     | Verification          |
-| ------------------------ | ---------- | -------- | ----------------- | --------------------- |
-| `[Add Certificate Name]` | `[Issuer]` | `[Date]` | `[Credential ID]` | `[Verification Link]` |
-| `[Add Certificate Name]` | `[Issuer]` | `[Date]` | `[Credential ID]` | `[Verification Link]` |
-| `[Add Certificate Name]` | `[Issuer]` | `[Date]` | `[Credential ID]` | `[Verification Link]` |
+</div>
 
----
-
-# 🗺️ LEARNING ROADMAP
-
-## 🟢 COMPLETED
-
-Update this section only when a topic has genuinely been completed.
-
-* `[Add completed foundation]`
-* `[Add completed certification]`
-* `[Add completed project milestone]`
-
-## 🟡 CURRENTLY LEARNING
-
-### Foundations
-
-* Programming
-* Git / GitHub
-* Linux
-* Networking
-* Data Structures & Algorithms
-
-### Cybersecurity
-
-* Security Fundamentals
-* Web Security
-* Ethical Hacking
-* Vulnerability Assessment
-* Secure Coding
-* Network Security
-* Incident Response Fundamentals
-
-### AI / ML
-
-* Python
-* Mathematics Fundamentals
-* Machine Learning
-* NLP
-* Generative AI
-* AI Applications
-
-## 🔵 NEXT
-
-* Security-focused projects
-* CTF practice
-* More advanced networking
-* Web security practice
-* Security testing labs
-* AI/ML applications
-* Open-source contributions
-
-## 🟣 FUTURE GOALS
-
-* Industry-relevant certifications
-* Advanced security projects
-* Open-source security contributions
-* Internships
-* Hackathons
-* CTF competitions
-* Secure AI projects
-* Advanced interview preparation
+| Symbol | Area |
+|---|---|
+| 🐧 | Linux |
+| 💻 | Command Line |
+| ⚙️ | System Fundamentals |
+| 🔐 | Linux Security |
+| 📁 | File Permissions |
+| 🔄 | Processes & System Concepts |
 
 ---
 
-# 🚀 PROJECTS
+## 🤖 AI / MACHINE LEARNING
 
-I document projects based on what I actually build rather than listing hypothetical projects.
-
-## ⭐ FEATURED PROJECT
-
-### `[Add Strongest Real Project]`
-
-| Category       | Details                        |
-| -------------- | ------------------------------ |
-| Project        | `[Project Name]`               |
-| Description    | `[Short description]`          |
-| Problem Solved | `[Problem addressed]`          |
-| Technology     | `[Technologies actually used]` |
-| Key Features   | `[Main features]`              |
-| What I Learned | `[Skills/concepts learned]`    |
-| GitHub         | `[Repository URL]`             |
-| Live Demo      | `[Live Demo URL / N/A]`        |
+| Symbol | Area |
+|---|---|
+| 🤖 | Artificial Intelligence |
+| 🧠 | Machine Learning |
+| ✨ | Generative AI |
+| 💬 | Natural Language Processing |
+| 🔌 | AI APIs |
+| 🧩 | AI Applications |
 
 ---
 
-## 🔐 CYBERSECURITY PROJECTS
+## 🛠️ DEVELOPMENT TOOLS
 
-### `[Add Security Project]`
+<div align="center">
 
-**Description:**
-`[Short description]`
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
 
-**Problem Solved:**
-`[Problem solved]`
+</div>
 
-**Technology Used:**
-`[Technologies]`
-
-**Key Features:**
-
-* `[Feature 1]`
-* `[Feature 2]`
-* `[Feature 3]`
-
-**What I Learned:**
-`[Learning outcome]`
-
-**Repository:** `[GitHub URL]`
-**Live Demo:** `[URL / N/A]`
+| Symbol | Tool |
+|---|---|
+| 🌱 | Git |
+| 🐙 | GitHub |
+| 💙 | Visual Studio Code |
+| 🐧 | Linux |
+| ⚙️ | Development Environment |
 
 ---
 
-## 🤖 AI / ML PROJECTS
+# 🛡️ CYBERSECURITY FOCUS
 
-### `[Add AI/ML Project]`
+## 🌐 Networking
 
-**Description:**
-`[Short description]`
+Currently developing knowledge in:
 
-**Problem Solved:**
-`[Problem solved]`
+- Computer networking fundamentals
+- Network architecture
+- Communication protocols
+- Network security
+- Secure communication
+- Network troubleshooting concepts
 
-**Technology Used:**
-`[Technologies]`
+## 🐧 Linux & Systems
 
-**Key Features:**
+Learning:
 
-* `[Feature 1]`
-* `[Feature 2]`
-* `[Feature 3]`
+- Linux command line
+- File systems
+- Permissions
+- Processes
+- System fundamentals
+- Security fundamentals
 
-**What I Learned:**
-`[Learning outcome]`
+## 🌐 Web Security
 
-**Repository:** `[GitHub URL]`
-**Live Demo:** `[URL / N/A]`
+Exploring:
+
+- Authentication
+- Authorization
+- Access control
+- Secure web applications
+- Common vulnerability concepts
+- Secure development practices
+
+## 🔒 Cryptography
+
+Building foundational understanding of:
+
+- Hashing
+- Encryption
+- Digital signatures
+- Secure communication
+- Cryptographic concepts
+
+## 🧪 Security Testing
+
+Learning:
+
+- Vulnerability identification
+- Security testing
+- Ethical hacking
+- Security labs
+- Secure coding
+
+> My cybersecurity learning is focused on ethical practice, security education, labs and responsible experimentation.
 
 ---
 
-## 🌐 WEB / SOFTWARE PROJECTS
+# 🤖 AI / ML ROADMAP
 
-### `[Add Web or Software Project]`
+```text
+Python
+   │
+   ▼
+AI Fundamentals
+   │
+   ▼
+Machine Learning
+   │
+   ▼
+NLP
+   │
+   ▼
+Generative AI
+   │
+   ▼
+AI Applications
+   │
+   ▼
+Secure AI Systems
+```
 
-**Description:**
-`[Short description]`
+### Current Interests
 
-**Problem Solved:**
-`[Problem solved]`
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- ✨ Generative AI
+- 💬 NLP
+- 🔌 AI APIs
+- 🧩 AI Applications
+- 🛡️ AI Security
 
-**Technology Used:**
-`[Technologies]`
+---
 
-**Key Features:**
+# 🧩 PROBLEM SOLVING
 
-* `[Feature 1]`
-* `[Feature 2]`
-* `[Feature 3]`
+I continuously improve my programming and algorithmic thinking through coding and problem-solving practice.
 
-**What I Learned:**
-`[Learning outcome]`
+### Focus Areas
 
-**Repository:** `[GitHub URL]`
-**Live Demo:** `[URL / N/A]`
+- 🧩 Data Structures
+- 🔎 Searching
+- 🔃 Sorting
+- 🧠 Dynamic Programming
+- 🌳 Trees
+- 🕸️ Graphs
+- 🔁 Recursion
+- 📦 Arrays
+- 🔤 Strings
+- ⚡ Greedy Algorithms
+- 🏆 Competitive Programming
+
+### Philosophy
+
+```text
+UNDERSTAND
+    ↓
+IMPLEMENT
+    ↓
+TEST
+    ↓
+OPTIMIZE
+    ↓
+REPEAT
+```
 
 ---
 
@@ -430,34 +496,21 @@ I document projects based on what I actually build rather than listing hypotheti
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bhat-muzamil56&show_icons=true&theme=transparent&hide_border=true&title_color=00FF9C&icon_color=00FF9C&text_color=67E8F9&bg_color=020617" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=bhat-muzamil56&show_icons=true&hide_border=true&theme=transparent&title_color=00FF9C&icon_color=00FF9C&text_color=67E8F9&bg_color=020617" height="170">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhat-muzamil56&layout=compact&theme=transparent&hide_border=true&title_color=00FF9C&text_color=67E8F9&bg_color=020617" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhat-muzamil56&layout=compact&hide_border=true&theme=transparent&title_color=00FF9C&text_color=67E8F9&bg_color=020617" height="170">
 
 </div>
-
-> GitHub statistics are automatically generated from repository activity.
 
 ---
 
-# 🔥 CONTRIBUTION ACTIVITY
+# 🔥 CONTRIBUTION STREAK
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=bhat-muzamil56&theme=dark&hide_border=true&background=020617&ring=00FF9C&fire=00FF9C&currStreakLabel=67E8F9">
+<img src="https://streak-stats.demolab.com?user=bhat-muzamil56&theme=dark&hide_border=true&background=020617&ring=00FF9C&fire=00FF9C&currStreakLabel=67E8F9&sideLabels=67E8F9&dates=94A3B8">
 
 </div>
-
-### Contribution Philosophy
-
-```text
-Consistency > Intensity
-
-Learn continuously.
-Build consistently.
-Contribute when possible.
-Improve every iteration.
-```
 
 ---
 
@@ -471,320 +524,361 @@ Improve every iteration.
 
 ---
 
-# 🏅 ACHIEVEMENTS
+# 📚 LEARNING ROADMAP
 
-No achievements have been provided yet.
+## 🟢 FOUNDATIONS
 
-This section is ready for verified milestones such as:
+- [x] Programming Fundamentals
+- [x] Git / GitHub Fundamentals
+- [ ] Advanced Data Structures
+- [ ] Advanced Algorithms
+- [ ] Linux Fundamentals
+- [ ] Networking Fundamentals
 
-| Year     | Achievement                          | Organization     | Evidence |
-| -------- | ------------------------------------ | ---------------- | -------- |
-| `[Year]` | `[Hackathon / CTF / Award]`          | `[Organization]` | `[Link]` |
-| `[Year]` | `[Coding Contest / Workshop]`        | `[Organization]` | `[Link]` |
-| `[Year]` | `[Open Source / Research Milestone]` | `[Organization]` | `[Link]` |
+## 🟡 CYBERSECURITY
 
----
+- [ ] Security Fundamentals
+- [ ] Linux Security
+- [ ] Network Security
+- [ ] Web Security
+- [ ] Ethical Hacking
+- [ ] Vulnerability Assessment
+- [ ] Secure Coding
+- [ ] CTF Practice
 
-# 🗓️ CERTIFICATE & MILESTONE TIMELINE
+## 🔵 AI / ML
 
-## 2026
+- [ ] Machine Learning
+- [ ] NLP
+- [ ] Generative AI
+- [ ] AI Applications
+- [ ] AI Agents
+- [ ] Secure AI Concepts
 
-* `[Add verified certificate]`
-* `[Add completed project]`
-* `[Add hackathon]`
-* `[Add CTF]`
-* `[Add achievement]`
+## 🟣 ADVANCED
 
-## 2027
-
-* `[Add certificate]`
-* `[Add project]`
-* `[Add internship]`
-* `[Add achievement]`
-
-## 2028+
-
-* `[Add future milestone]`
-* `[Add major project]`
-* `[Add career milestone]`
-
----
-
-# 💻 CODING PROFILES
-
-Only add public profiles that actually belong to me.
-
-| Platform      | Profile                       |
-| ------------- | ----------------------------- |
-| LeetCode      | `[Add LeetCode Profile]`      |
-| CodeChef      | `[Add CodeChef Profile]`      |
-| HackerRank    | `[Add HackerRank Profile]`    |
-| GeeksforGeeks | `[Add GeeksforGeeks Profile]` |
-| Kaggle        | `[Add Kaggle Profile]`        |
-| TryHackMe     | `[Add TryHackMe Profile]`     |
-| Hack The Box  | `[Add Hack The Box Profile]`  |
+- [ ] Security Engineering
+- [ ] AI Security
+- [ ] Secure AI Systems
+- [ ] Advanced Security Projects
+- [ ] Open Source Contributions
+- [ ] Industry Certifications
 
 ---
 
-# 🧪 CYBERSECURITY PRACTICE
+# 🎯 2026 TARGETS
 
-### TryHackMe
+<div align="center">
 
-`[Add profile and verified progress]`
+```text
+╔════════════════════════════════════════════════════╗
+║                  2026 TARGETS                     ║
+╠════════════════════════════════════════════════════╣
+║                                                    ║
+║  🔐 Strengthen Cybersecurity Fundamentals         ║
+║  🐧 Improve Linux & Networking                    ║
+║  🛡️ Build Security Projects                       ║
+║  🤖 Continue AI / ML Development                  ║
+║  🧠 Build AI-powered Applications                 ║
+║  🧩 Improve DSA & Problem Solving                 ║
+║  🧪 Participate in CTFs / Hackathons              ║
+║  📜 Earn Relevant Certifications                  ║
+║  🌱 Contribute to Open Source                     ║
+║  💼 Prepare for Career Opportunities              ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
+```
 
-### Hack The Box
-
-`[Add profile and verified progress]`
-
-### CTFs
-
-`[Add CTF participation and writeups]`
-
-### Security Labs
-
-`[Add completed security labs]`
-
-### Security Writeups
-
-`[Add writeup repository or links]`
-
-### Security Projects
-
-`[Add verified security projects]`
-
-> No rankings, scores or competition results are claimed until they are actually achieved.
-
----
-
-# 🎯 2026 GOALS
-
-* [ ] Complete cybersecurity fundamentals
-* [ ] Build security-focused projects
-* [ ] Complete relevant certifications
-* [ ] Participate in CTFs
-* [ ] Improve networking knowledge
-* [ ] Improve Linux skills
-* [ ] Solve coding problems consistently
-* [ ] Contribute to open source
-* [ ] Build AI-powered applications
-* [ ] Prepare for internships
+</div>
 
 ---
 
 # 🏗️ CURRENTLY BUILDING
 
-🔴 **Currently Building**
+## 🔴 EduAssistant
 
-| Field      | Details                              |
-| ---------- | ------------------------------------ |
-| Project    | `[Add Active Project]`               |
-| Goal       | `[What I am trying to build]`        |
-| Technology | `[Technologies being used]`          |
-| Status     | `[Planning / Development / Testing]` |
-
----
-
-# 📚 WHAT I AM LEARNING
-
-## 🔐 Cybersecurity
-
-* Security fundamentals
-* Ethical hacking concepts
-* Web security
-* System security
-* Secure coding
-
-## 💻 Programming
-
-* Python
-* Java
-* C/C++
-* JavaScript
-* Data Structures & Algorithms
-
-## 🤖 AI / ML
-
-* Artificial Intelligence
-* Machine Learning
-* NLP
-* Generative AI
-* AI-powered applications
-
-## 🌐 Networking
-
-* Networking fundamentals
-* Network security
-* Secure communication
-
-## 🐧 Linux
-
-* Linux fundamentals
-* Command line
-* System concepts
-* Security fundamentals
-
-## 🏗️ Software Engineering
-
-* Application development
-* Git/GitHub
-* Debugging
-* Project structure
-* Secure development practices
+| Field | Details |
+|---|---|
+| 🤖 Project | EduAssistant |
+| 🎯 Goal | AI-powered learning companion |
+| 🧠 Direction | AI + Education + Web Development |
+| ⚡ AI | GPT + Gemini |
+| 🚧 Status | Active Development |
+| 🌐 Live | https://muzamilai.replit.app |
 
 ---
 
-# 💡 WHAT I WANT TO BUILD
+# 📜 CERTIFICATIONS
 
-Future project directions include:
+No professional certifications are displayed until verified credentials are available.
 
-* 🔐 Security tools
-* 🤖 AI-powered security tools
-* 🌐 Secure web applications
-* ⚙️ Automation tools
-* 🧪 Educational cybersecurity platforms
-* 🧠 AI assistants
-* 🛡️ Secure AI systems
-* 🌐 Networking utilities
-* 💻 Developer productivity tools
+When earned, they can be documented here:
 
-The objective is to turn what I learn into practical software.
+| 🏅 Certification | 🏢 Issuer | 📅 Date | 🔗 Verification |
+|---|---|---|---|
+| Certification | Organization | Date | Verification Link |
+
+---
+
+# 🏅 ACHIEVEMENTS
+
+Verified achievements will be added as they are earned.
+
+Possible milestones:
+
+- 🏆 Hackathons
+- 🛡️ CTF competitions
+- 💻 Coding competitions
+- 🌱 Open-source contributions
+- 📜 Professional certifications
+- 🎓 Academic achievements
+- 🤖 AI/ML milestones
+- 🔐 Cybersecurity milestones
+
+> No rankings, scores or achievements are claimed without verified evidence.
+
+---
+
+# 🧪 CYBERSECURITY PRACTICE
+
+### 🟢 TryHackMe
+
+`Profile and verified progress will be added when available.`
+
+### 🔵 Hack The Box
+
+`Profile and verified progress will be added when available.`
+
+### 🏴 CTFs
+
+`CTF participation and writeups will be documented here.`
+
+### 🧪 Security Labs
+
+`Completed security labs will be documented here.`
+
+### 📝 Security Writeups
+
+`Security research and learning writeups will be added here.`
+
+---
+
+# 💻 CODING PROFILES
+
+| Platform | Status |
+|---|---|
+| 🟡 LeetCode | To be added |
+| 🍳 CodeChef | To be added |
+| 🟢 HackerRank | To be added |
+| 📚 GeeksforGeeks | To be added |
+| 🐼 Kaggle | To be added |
+| 🛡️ TryHackMe | To be added |
+| 🔵 Hack The Box | To be added |
 
 ---
 
 # 🌱 OPEN SOURCE
 
-I am interested in gradually becoming an active open-source contributor.
+I want to gradually become an active open-source contributor.
 
-Areas I want to explore:
+### Contribution Goals
 
-* Contributing to beginner-friendly projects
-* Fixing issues
-* Improving documentation
-* Writing tests
-* Security improvements
-* Learning from experienced developers
-* Building meaningful contributions
+- 🌱 Beginner-friendly contributions
+- 🐛 Issue fixing
+- 📝 Documentation
+- 🧪 Testing
+- 💻 Code contributions
+- 🔐 Security improvements
+- 🧠 Learning from experienced developers
 
-> No open-source contribution is claimed until it has actually been completed.
+> Open-source contributions will be added here once they are actually completed.
 
 ---
 
-# 🎓 CAREER TARGET
+# 💡 WHAT I WANT TO BUILD
 
-My long-term career direction is focused on the intersection of:
+<div align="center">
+
+| 🔐 Security Tools | 🤖 AI Applications | 🛡️ AI Security |
+|---|---|---|
+| 🌐 Secure Web Apps | ⚙️ Automation | 🧠 AI Assistants |
+| 🌐 Network Tools | 🧪 Security Labs | 💻 Developer Tools |
+
+</div>
+
+### Core Objective
+
+> **Turn what I learn into practical software.**
+
+---
+
+# 🎓 CAREER DIRECTION
+
+My long-term direction is focused on the intersection of:
 
 ```text
-Cybersecurity
-      +
-Security Engineering
-      +
-Artificial Intelligence
-      +
-Software Engineering
-      +
-Secure AI Systems
+                 🔐 CYBERSECURITY
+                        │
+                        ▼
+               🛡️ SECURITY ENGINEERING
+                        │
+                        ▼
+                💻 SOFTWARE ENGINEERING
+                        │
+                        ▼
+                 🤖 ARTIFICIAL INTELLIGENCE
+                        │
+                        ▼
+                    🧠 SECURE AI
 ```
 
-I am currently focused on building the fundamentals required to eventually work in these areas.
-
-As a student, my priority is to develop genuine technical ability through **learning, projects, problem solving, security practice and continuous improvement**.
+As a final-year CSE student, my current priority is to strengthen my fundamentals, build meaningful projects, develop practical security knowledge and prepare for professional opportunities.
 
 ---
 
 # 🧭 LONG-TERM VISION
 
-> **Build systems that are useful, intelligent and secure.**
+<div align="center">
 
-I want to develop the technical foundation required to solve problems where:
+## `BUILD SYSTEMS THAT ARE USEFUL, INTELLIGENT AND SECURE.`
 
-**Cybersecurity + Software Engineering + Artificial Intelligence**
+### 🔐 Cybersecurity + 🤖 AI + 💻 Software Engineering
 
-intersect.
+</div>
 
-My long-term goal is to contribute to secure and intelligent systems while continuously improving as an engineer.
+My goal is to develop the technical depth required to work on systems that combine **security, software engineering and artificial intelligence**.
 
 ---
 
 # 📈 PROFILE EVOLUTION
 
-This README is designed to grow with my career.
-
 ```text
 Learning
-   ↓
+   │
+   ▼
 Projects
-   ↓
-Certificates
-   ↓
+   │
+   ▼
+Certifications
+   │
+   ▼
 CTFs / Hackathons
-   ↓
+   │
+   ▼
 Coding Progress
-   ↓
+   │
+   ▼
 Open Source
-   ↓
+   │
+   ▼
 Internships
-   ↓
-Research / Achievements
-   ↓
+   │
+   ▼
+Research
+   │
+   ▼
 Career Milestones
 ```
 
-I will update this profile as real milestones are achieved.
+This profile will evolve with **real projects, verified achievements and genuine technical progress**.
 
 ---
 
-# 📫 CONTACT
+# 📫 CONNECT WITH ME
 
 <div align="center">
 
 <a href="https://github.com/bhat-muzamil56">
-<img src="https://img.shields.io/badge/GitHub-bhat--muzamil56-181717?style=for-the-badge&logo=github&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/🐙_GITHUB-bhat--muzamil56-181717?style=for-the-badge&logo=github&logoColor=00FF9C">
 </a>
+
+<br><br>
 
 <a href="https://www.linkedin.com/in/muzamil-arshid-23861a328">
-<img src="https://img.shields.io/badge/LinkedIn-Muzamil%20Arshid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/💼_LINKEDIN-Muzamil%20Arshid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
+<br><br>
+
 <a href="https://muzamilai.replit.app">
-<img src="https://img.shields.io/badge/Portfolio-muzamilai.replit.app-00C853?style=for-the-badge&logo=googlechrome&logoColor=white">
+<img src="https://img.shields.io/badge/🚀_PORTFOLIO-muzamilai.replit.app-00C853?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
 </div>
-
-### Email
-
-`[Add professional email if you want it publicly visible]`
 
 ---
 
 # ⚡ QUICK PROFILE
 
-| Category            | Focus                                            |
-| ------------------- | ------------------------------------------------ |
-| 🎓 Education        | Computer Science & Engineering                   |
-| 🔐 Primary Interest | Cybersecurity                                    |
-| 🛡️ Security        | Ethical Hacking, Networking, Linux, Web Security |
-| 🤖 AI               | Artificial Intelligence & Machine Learning       |
-| 💻 Development      | Python, Java, C/C++, JavaScript                  |
-| 🌐 Web              | HTML, CSS, JavaScript                            |
-| 🐧 Systems          | Linux                                            |
-| 🧩 Problem Solving  | Data Structures & Algorithms                     |
-| 🚀 Direction        | Cybersecurity + AI + Software Engineering        |
-| 🌱 Approach         | Learn → Build → Secure → Improve                 |
+<div align="center">
+
+| Category | Focus |
+|---|---|
+| 🎓 **Education** | Final-Year Computer Science & Engineering |
+| 🔐 **Primary Interest** | Cybersecurity |
+| 🤖 **AI Interest** | Artificial Intelligence & Machine Learning |
+| 💻 **Languages** | Python • Java • C • C++ • JavaScript |
+| 🌐 **Web** | HTML • CSS • JavaScript |
+| 🐧 **Systems** | Linux |
+| 🌐 **Networking** | Networking & Security Fundamentals |
+| 🧩 **Problem Solving** | Data Structures & Algorithms |
+| 🚀 **Featured Project** | EduAssistant |
+| 🔐 **Security Project** | SecureVault |
+| 🌐 **Portfolio** | muzamilai.replit.app |
+| 🐙 **GitHub** | bhat-muzamil56 |
+
+</div>
+
+---
+
+# 🧠 DEVELOPMENT PHILOSOPHY
+
+<div align="center">
+
+```text
+╔════════════════════════════════════════╗
+║                                        ║
+║             🧠 LEARN                   ║
+║                ↓                       ║
+║             💻 BUILD                   ║
+║                ↓                       ║
+║             🧪 TEST                    ║
+║                ↓                       ║
+║          🔍 UNDERSTAND                 ║
+║                ↓                       ║
+║             🔐 SECURE                  ║
+║                ↓                       ║
+║             ⚡ IMPROVE                 ║
+║                ↓                       ║
+║              🔁 REPEAT                ║
+║                                        ║
+╚════════════════════════════════════════╝
+```
+
+### `CONSISTENCY > INTENSITY`
+
+</div>
 
 ---
 
 <div align="center">
 
----
+# `BUILD. SECURE. LEARN. IMPROVE.`
 
-### `BUILD. SECURE. LEARN. IMPROVE.`
-
-**Cybersecurity • AI/ML • Software Development**
+### 🔐 Cybersecurity • 🤖 AI/ML • 💻 Software Development
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,40:003b2f,75:001a14,100:020617&height=120&section=footer"/>
+<a href="https://github.com/bhat-muzamil56">
+<img src="https://img.shields.io/badge/⭐_EXPLORE_MY_GITHUB-00FF9C?style=for-the-badge&logo=github&logoColor=020617">
+</a>
+
+<a href="https://muzamilai.replit.app">
+<img src="https://img.shields.io/badge/🚀_VISIT_MY_PORTFOLIO-67E8F9?style=for-the-badge&logo=googlechrome&logoColor=020617">
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,35:003b2f,70:001a14,100:020617&height=160&section=footer"/>
 
 </div>
-```
