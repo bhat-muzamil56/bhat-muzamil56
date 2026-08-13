@@ -1,172 +1,71 @@
-# 👋 Hi, I'm Muzamil Arshid
+<div align="center">
 
-<p align="center">
+# 🛡️ MUZAMIL ARSHID
 
-## 🛡️ Cybersecurity Enthusiast
+### Cybersecurity Enthusiast • CSE Student • AI/ML Learner
 
-### 💻 CSE Student &nbsp; | &nbsp; 🤖 AI & ML Learner
+<br>
 
-### 🐍 Python &nbsp; | &nbsp; ☕ Java &nbsp; | &nbsp; 🐧 Linux &nbsp; | &nbsp; 🌐 Networking
+<img src="https://img.shields.io/badge/CYBERSECURITY-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF00">
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-412991?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/NETWORKING-0078D4?style=for-the-badge&logo=cisco&logoColor=white">
 
-</p>
+<br><br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhat-muzamil56&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<a href="https://github.com/bhat-muzamil56">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github">
+</a>
 
----
+<a href="https://www.linkedin.com/in/muzamil-arshid-23861a328">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-## 🛡️ About Me
+<a href="https://muzamilai.replit.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-00C853?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
 
-I'm a **Computer Science & Engineering student** passionate about:
+<br><br>
 
-- 🛡️ Cybersecurity & Ethical Hacking
-- 🌐 Network & System Security
-- 🤖 Artificial Intelligence & Machine Learning
-- 🐍 Python Development
-- ☕ Java Development
-- 🐧 Linux & Security Tools
-- 🚀 Building practical software projects
+<img src="https://komarev.com/ghpvc/?username=bhat-muzamil56&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge">
 
-I'm continuously learning, experimenting, and building projects to improve my skills in **Cybersecurity, AI, and Software Development**.
-
----
-
-## 🛠️ Skills & Tools
-
-### 💻 Programming
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css" />
-</p>
-
-### 🛡️ Cybersecurity & Systems
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github" />
-</p>
-
-### 🤖 AI & Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,vscode" />
-</p>
+</div>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhat-muzamil56&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhat-muzamil56&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bhat-muzamil56&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🤖 EduAssistant
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-Powered-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Education-Learning-blue?style=for-the-badge&logo=bookstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web-App-orange?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</p>
-
-An **AI-powered learning companion** designed to help students learn concepts, explore topics, and interact with AI.
-
-### ✨ Features
-
-- 🤖 AI-powered learning assistance
-- 📚 Helps students understand difficult concepts
-- 💬 Interactive AI experience
-- 🌐 Web-based application
-- 🧠 Focused on personalized learning
-
-### 🛠️ Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
-</p>
-
-<p align="center">
-  <a href="https://muzamilai.replit.app">
-    <img src="https://img.shields.io/badge/🚀_Live_Project-Visit_Now-success?style=for-the-badge" />
-  </a>
-</p>
-
----
-
-## 🔐 SecureVault
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Security-Password_Manager-000000?style=for-the-badge&logo=1password&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-Web_App-blue?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</p>
-
-A **password manager web application** designed to manage and organize login credentials through a simple interface.
-
-### ✨ Features
-
-- 🔑 Password management
-- 👤 User registration & login
-- 🔎 Password search
-- 👁️ Show / hide passwords
-- 💾 Local storage
-- 🖥️ Simple and responsive interface
-
-### 🛠️ Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/bhat-muzamil56">
-    <img src="https://img.shields.io/badge/💻_View_on_GitHub-Visit_Profile-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-## 🛡️ Cybersecurity Projects
-
-I'm continuously exploring and building projects related to **Cybersecurity, Ethical Hacking, Networking, and Security Automation**.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
-
-### 🔍 Areas I'm Exploring
-
-- 🛡️ Network Security
-- 🔐 Application Security
-- 🕵️ Ethical Hacking
-- 🐍 Security Automation
-- 🐧 Linux Security
-- 🌐 Network Analysis
-- 🔎 Vulnerability Analysis
-
----
-
-## 🎯 Current Goals
+# 🖥️ TERMINAL
 
 ```text
-🛡️ Improve Cybersecurity Skills
-🤖 Learn Advanced AI & Machine Learning
-🐍 Build More Python Projects
-🌐 Improve Web Development
-🐧 Master Linux & Security Tools
-🚀 Contribute to Open Source
-💻 Build Real-World Projects
+┌──(muzamil㉿cyberlab)-[~/profile]
+└─$ whoami
+
+Cybersecurity Enthusiast
+Computer Science & Engineering Student
+AI / ML Learner
+Software Developer
+
+┌──(muzamil㉿cyberlab)-[~/skills]
+└─$ cat interests.txt
+
+[+] Cybersecurity
+[+] Ethical Hacking
+[+] Networking
+[+] Linux
+[+] Artificial Intelligence
+[+] Machine Learning
+[+] Python
+[+] Java
+[+] Web Development
+[+] Software Engineering
+
+┌──(muzamil㉿cyberlab)-[~/mission]
+└─$ ./build_future.sh
+
+Learning...
+Building...
+Experimenting...
+Improving...
+
+STATUS: ACTIVE
