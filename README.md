@@ -1,7 +1,13 @@
 # 👋 Hi, I'm Muzamil Arshid
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Computer+Science+Engineering+Student+%F0%9F%92%BB;AI+%26+Machine+Learning+Learner+%F0%9F%A4%96;Python+%7C+Java+%7C+Linux+Developer+%F0%9F%90%8D;Building+Projects+%26+Learning+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
+
+## 🛡️ Cybersecurity Enthusiast
+
+### 💻 CSE Student &nbsp; | &nbsp; 🤖 AI & ML Learner
+
+### 🐍 Python &nbsp; | &nbsp; ☕ Java &nbsp; | &nbsp; 🐧 Linux &nbsp; | &nbsp; 🌐 Networking
+
 </p>
 
 <p align="center">
