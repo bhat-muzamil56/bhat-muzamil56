@@ -65,33 +65,92 @@ I'm continuously learning, experimenting, and building projects to improve my sk
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🤖 EduAssistant
+## 🤖 EduAssistant
 
-An AI-powered learning companion designed to help students learn, explore concepts, and interact with AI.
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Powered-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Education-Learning-blue?style=for-the-badge&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web-App-orange?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</p>
 
-**Tech:** AI • Python • Web Development
+An **AI-powered learning companion** designed to help students learn concepts, explore topics, and interact with AI.
+
+### ✨ Features
+
+- 🤖 AI-powered learning assistance
+- 📚 Helps students understand difficult concepts
+- 💬 Interactive AI experience
+- 🌐 Web-based application
+- 🧠 Focused on personalized learning
+
+### 🛠️ Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+</p>
+
+<p align="center">
+  <a href="https://muzamilai.replit.app">
+    <img src="https://img.shields.io/badge/🚀_Live_Project-Visit_Now-success?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
-### 🔐 SecureVault
+## 🔐 SecureVault
 
-A password manager web application focused on securely managing and organizing login credentials.
+<p align="center">
+  <img src="https://img.shields.io/badge/Security-Password_Manager-000000?style=for-the-badge&logo=1password&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-Web_App-blue?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</p>
 
-**Tech:** HTML • CSS • JavaScript • LocalStorage
+A **password manager web application** designed to manage and organize login credentials through a simple interface.
+
+### ✨ Features
+
+- 🔑 Password management
+- 👤 User registration & login
+- 🔎 Password search
+- 👁️ Show / hide passwords
+- 💾 Local storage
+- 🖥️ Simple and responsive interface
+
+### 🛠️ Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/bhat-muzamil56">
+    <img src="https://img.shields.io/badge/💻_View_on_GitHub-Visit_Profile-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
-### 🛡️ Cybersecurity Projects
+## 🛡️ Cybersecurity Projects
 
-I'm continuously working on cybersecurity-related projects involving:
+I'm continuously exploring and building projects related to **Cybersecurity, Ethical Hacking, Networking, and Security Automation**.
 
-- Network Security
-- Ethical Hacking
-- Security Automation
-- Linux
-- Python Security Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
+
+### 🔍 Areas I'm Exploring
+
+- 🛡️ Network Security
+- 🔐 Application Security
+- 🕵️ Ethical Hacking
+- 🐍 Security Automation
+- 🐧 Linux Security
+- 🌐 Network Analysis
+- 🔎 Vulnerability Analysis
 
 ---
 
@@ -104,3 +163,4 @@ I'm continuously working on cybersecurity-related projects involving:
 🌐 Improve Web Development
 🐧 Master Linux & Security Tools
 🚀 Contribute to Open Source
+💻 Build Real-World Projects
